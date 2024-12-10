@@ -1,3 +1,7 @@
+# [JupyterLite](https://attajak.github.io/jupyterlite)
+
+[![Build and Deploy](https://github.com/attajak/jupyterlite/actions/workflows/deploy.yml/badge.svg)](https://github.com/attajak/jupyterlite/actions/workflows/deploy.yml)
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
